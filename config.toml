@@ -1,0 +1,11 @@
+# 基本設置
+baseURL = "https://willaim0553135.github.io/"
+title = "My Hugo Site"
+languageCode = "en-us"
+
+# 主題設置
+theme="axiom"
+
+# 連結設置
+[permalinks]
+  posts = "/:year/:month/:title/"
